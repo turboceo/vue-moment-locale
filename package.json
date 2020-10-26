@@ -1,0 +1,19 @@
+{
+  "name": "vue-moment-locale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "turboceo",
+  "github": "https://github.com/turboceo/vue-moment-locale",
+  "license": "ISC",
+  "devDependencies": {
+    "moment": "^2.29.1"
+  }
+}
